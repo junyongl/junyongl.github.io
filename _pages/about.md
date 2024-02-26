@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! I am Junyong Lee."
+title: "Hello, I am Junyong Lee!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,8 @@ I am currently a second-year student pursuing a bachelor’s degree in Bioengine
  
 With a keen interest in understanding the complex genomic and proteomic data through sequencing technology, I am dedicated to explore innovative solutions that enhance our ability to tailor medical treatments to individual patients. 
 
-# Why Bioinformatics?
+# 🧬 Why Bioinformatics?
+I was first introduced to bioinformatics when I was in high school, during my biology class. With thousands of health disorders caused by genetic mutations, and millions of people losing their lives because of these diseases, I became convinced that understanding the human genome is the most crucial step for the enhancement of healthcare. By integrating computational analysis with complex genetic data, bioinformatics enables researchers to uncover and analyze the intricate genetic patterns for the application of appropriate treatment for different patients. Through bioinformatics, I believe we can unravel the complex genetic variations underlying diseases, paving the way for more precise and efficient clinical treatment, ultimately advancing healthcare. 
 
 # Research Interests
 
