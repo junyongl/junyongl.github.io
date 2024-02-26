@@ -2,7 +2,7 @@
 main:
   - title: "CV"
     #url: /cv/
-    #url:
+    url: /files/Jun_Lee_Resume_WNTR24.pdf
 
   - title: "Publications"
     url: /publications/
