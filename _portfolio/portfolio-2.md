@@ -1,6 +1,6 @@
 ---
 title: "Biodiesel Fuel Efficiency Optimization Project"
-excerpt: "Research on improving fuel efficiency of biodiesel while increasing the percent yield."
+excerpt: "A research on improving fuel efficiency of biodiesel while increasing the percent yield."
 collection: portfolio
 ---
 
