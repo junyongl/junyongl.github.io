@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Junyong (Jun) Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Bioengineering: Bioinformatics, UCSD"
   location         : "San Diego CA"
-  employer         : "Bioengineering: Bioinformatics, UCSD"
+  employer         : #""
   uri              : # URL
   email            : "junlbsnscntct@gmail.com" 
 
