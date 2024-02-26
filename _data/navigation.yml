@@ -1,11 +1,14 @@
 # main links links
 main:
+  - title: "Papers"
+    url: /papers/
+        
+  - title: "Projects"
+    url: /projects/
+
   - title: "Resume"
     #url: /cv/
     url: /files/Jun_Lee_Resume_WNTR24.pdf
-
-  - title: "Publications"
-    url: /publications/
 
 #  - title: "Talks"
 #    url: /talks/    
@@ -13,9 +16,7 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
     
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
+
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
