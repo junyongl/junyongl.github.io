@@ -1,6 +1,6 @@
 ---
-title: "Introductory Biology Lab Thesis Poster <br/>"
-excerpt: "A thesis poster for EMG lab project"
+title: "Introductory Biology Lab Thesis Poster"
+excerpt: "A thesis poster for EMG lab project <br/>"
 collection: papers
 ---
 
