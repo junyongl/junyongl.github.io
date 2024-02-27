@@ -4,11 +4,11 @@ excerpt: "A research on improving fuel efficiency of biodiesel while increasing 
 collection: portfolio
 ---
 
-A personal research on producing a biodiesel from canola oil and methanol through transesterification process. 
+A personal research on producing a biodiesel from canola oil and methanol through **transesterification** process. 
 
 My main focus for this research was to explore the influence of concentration of methanol on combustion energy of the biodiesel and the amount of waste glycerol produced. 
 
-The fuel efficiency of biodiesel was highest when the concentration of the methanol was 100% (purest) as it produced heat energy of 10.9 kJ/g. The combustion energy of the biodiesel was increased by approximately 30%.
+The fuel efficiency of biodiesel was highest when the concentration of the methanol was 100% (purest) as it produced heat energy of **10.9 kJ/g**. The combustion energy of the biodiesel was increased by approximately **30%**.
 
 *Below is link to my research paper.*
 

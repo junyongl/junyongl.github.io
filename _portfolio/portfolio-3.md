@@ -8,7 +8,7 @@ A personal research on exploring the optimum condition for *S. cerevisiae*’s a
 
 My main focus for this research was to study how the fermentation rate of *S. cerevisiae* will change based on different concentration of fructose solutions. I also focused on how much ethanol was produced as a byproduct of the anaerobic respiration and how this will influence the fermentation rate of the *S. cerevisiae*.  
 
-The fermentation rate was the highest when the concentration of the fructose solution was 150 g/dm<sup>3</sup>. The average fermentation rate of the *S. cerevisiae* was approximately 5155 ppm/min and started decrease as the concentration of solution increased further. The maximum ethanol concentration in which *S. cerevisiae* could tolerate was approximately 21.7% v/v.
+The fermentation rate was the highest when the concentration of the fructose solution was **150 g/dm<sup>3</sup>**. The average fermentation rate of the *S. cerevisiae* was approximately **5155 ppm/min** and started decrease as the concentration of solution increased further. The maximum ethanol concentration in which *S. cerevisiae* could tolerate was approximately **21.7% v/v**.
 
 *Below is link to my research paper.* 
 
