@@ -10,8 +10,6 @@ My main focus for this research was to study how the fermentation rate of *S. ce
 
 The fermentation rate was the highest when the concentration of the fructose solution was 150 g/dm<sup>3</sup>. The average fermentation rate of the *S. cerevisiae* was approximately 5155 ppm/min and started decrease as the concentration of solution increased further. The maximum ethanol concentration in which *S. cerevisiae* could tolerate was approximately 21.7% v/v.
 
-**This is a test.** 
-
 *Below is link to my research paper.* 
 
 <a href="../../files/Junyong Lee Biology HL IA Final Draft.pdf" class="demo_btn btn" style="text_">Paper</a>
