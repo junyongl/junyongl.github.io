@@ -1,5 +1,5 @@
 ---
-title: "S. cerevisiae Bioethanol Tolerance Research Project"
+title: "<em>_S. cerevisiae_</em> Bioethanol Tolerance Research Project"
 excerpt: "A research on exploring the fermentation rate of S. cerevisiae and its ethanol tolerance in different fructose concentration."
 collection: portfolio
 ---
